@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue_primary">#1565C0</color>
+    <color name="bg_app">#F2F4F7</color>
+
+    <color name="text_dark">#101828</color>
+    <color name="text_gray">#667085</color>
+
+    <color name="expense_green">#00C853</color> <color name="expense_red">#D92D20</color>   <color name="header_start">#0F172A</color>
+    <color name="header_end">#1E293B</color>
+
+    <color name="card_start">#2563EB</color>
+    <color name="card_end">#4F46E5</color>
+</resources>

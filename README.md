@@ -116,9 +116,9 @@ Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi:
 **Toriq** - [azisthoriq87@gmail,com]
 
 
-**Catatan:** Pastikan Anda telah mengganti/menyesuaikan nama-nama teknologi, fitur, dan detail implementasi di atas agar 100% akurat dengan proyek yang ada di repositori Anda.
+**Catatan:** Boleh Clone Project ini asal hubungi email hehe 
 
-**BERIKUT ADALAH SAMPLE GAMBAR UNTUK ANDA REFERENSI**
+**BERIKUT ADALAH SAMPEL GAMBAR UNTUK ANDA REFERENSI**
 
 <img width="108" height="240" alt="Screenshot_20251120_220513" src="https://github.com/user-attachments/assets/42fb26eb-02f4-4dd3-8f3b-dc385dd2e2ca" />
 
